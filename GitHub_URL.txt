@@ -1,0 +1,11 @@
+Laravel9 gitHub
+https://github.com/aokitashipro/udemy_laravel_basic
+
+php & Laravel6 
+https://github.com/aokitashipro/php_laravel_udemy
+
+GitHubからのダウンロードやインストール方法については、
+Laravel9 最後のセクション
+「おまけ：GitHubからファイルダウンロード」
+にて解説していますので、そちらもご活用ください。
+
